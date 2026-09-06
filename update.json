@@ -1,0 +1,16 @@
+{
+  "android": {
+    "versionCode": 5,
+    "versionName": "1.3.0",
+    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.0/Sonya-Chat-Android.apk",
+    "sha256": "a9e4de0e08a98b22e5290b16272ebbcb94fa8c4cb907977b4fabaef3f24ad0c2",
+    "notes": "Обновление по воздуху, единое имя и иконка, улучшенное подключение компьютеров."
+  },
+  "windows": {
+    "versionCode": 5,
+    "versionName": "1.3.0",
+    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.0/Sonya-Chat-Windows-Setup.exe",
+    "sha256": "126d3c2bf6b90171345c55ff6445d0511732ed6bac91492fbaf867d8b04e6b1d",
+    "notes": "Обновление по воздуху, иконка Сони, подключение ПК по 6 цифрам и настройка брандмауэра."
+  }
+}
