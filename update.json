@@ -7,10 +7,10 @@
     "notes": "Звуковые уведомления и автоматический выбор локальной сети или Tailscale."
   },
   "windows": {
-    "versionCode": 7,
-    "versionName": "1.3.2",
-    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.2/Sonya-Chat-Windows-Update-1.3.2.exe",
-    "sha256": "8ca4e699c5bfb995bf6c16c65dd572088f0552f6228672276fe5ebf9a7408c5a",
-    "notes": "Исправлена ошибка fetch failed: приложение автоматически находит новый адрес уже сопряжённого компьютера через Wi-Fi или Tailscale."
+    "versionCode": 8,
+    "versionName": "1.3.3",
+    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.3/Sonya-Chat-Windows-Update-1.3.3.exe",
+    "sha256": "c5ef0ef5eb76ee36db114460867dda4bc1bc6882f8849f0a24e43ffbafb2126c",
+    "notes": "ПК больше не нужно добавлять заново: дома сначала используется быстрый LAN, запасные адреса сохраняются, а изменившийся IP находится автоматически. Enter и Ctrl+Enter отправляют сообщение, Shift+Enter переносит строку."
   }
 }
