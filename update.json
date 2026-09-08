@@ -7,10 +7,10 @@
     "notes": "Звуковые уведомления и автоматический выбор локальной сети или Tailscale."
   },
   "windows": {
-    "versionCode": 9,
-    "versionName": "1.3.4",
-    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.4/Sonya-Chat-Windows-Update-1.3.4.exe",
-    "sha256": "23c3c714b48f1755391e50e35aae6818af3491d2e409f49b5db28fbf9eae7ab3",
-    "notes": "Компактный интерфейс без прокрутки всей страницы, отдельное окно устройств и чёткая DPI-отрисовка на экранах Windows с масштабом 125% и 150%."
+    "versionCode": 10,
+    "versionName": "1.3.5",
+    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.5/Sonya-Chat-Windows-Update-1.3.5.exe",
+    "sha256": "e65cd93d1323ebee846c03dbfbf0faa6c650b9dcaf7bc61b38d73bc9da423900",
+    "notes": "Исправлена размытая отрисовка при масштабе Windows 125% и 150% с помощью системного Per-Monitor V2 DPI-режима."
   }
 }
