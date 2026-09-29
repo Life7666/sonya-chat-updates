@@ -1,16 +1,16 @@
 {
   "android": {
-    "versionCode": 6,
-    "versionName": "1.3.1",
-    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.1/Sonya-Chat-Android-1.3.1.apk",
-    "sha256": "f4d172e78ffeb9cdbf4ab1f856620314d10cbaa7d569cdc7231551c280b1d348",
-    "notes": "Звуковые уведомления и автоматический выбор локальной сети или Tailscale."
+    "versionCode": 8,
+    "versionName": "1.3.6",
+    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.7/Sonya-Chat-Android-1.3.6.apk",
+    "sha256": "6ed8e1c67b8ac5d39fc4196137a64605cbc810eda62ff5794e1ef96fb5897fa9",
+    "notes": "Уведомления о сообщениях с ПК даже когда чат закрыт. Переименование компьютеров (✏️ в «Мои компьютеры»)."
   },
   "windows": {
-    "versionCode": 10,
-    "versionName": "1.3.5",
-    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.5/Sonya-Chat-Windows-Update-1.3.5.exe",
-    "sha256": "e65cd93d1323ebee846c03dbfbf0faa6c650b9dcaf7bc61b38d73bc9da423900",
-    "notes": "Исправлена размытая отрисовка при масштабе Windows 125% и 150% с помощью системного Per-Monitor V2 DPI-режима."
+    "versionCode": 12,
+    "versionName": "1.3.7",
+    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.7/Sonya-Chat-Windows-Update-1.3.7.exe",
+    "sha256": "9df2ec3f1f5e2f57c16fb8db40e9b170cffa79097a069a54258a18d54149444e",
+    "notes": "Всплывающие уведомления Windows о сообщениях. Переименование устройств двойным щелчком. Установщик больше не падает без tailscale.msi."
   }
 }
