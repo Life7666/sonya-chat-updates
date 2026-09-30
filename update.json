@@ -1,10 +1,10 @@
 {
   "android": {
-    "versionCode": 11,
-    "versionName": "1.3.9",
-    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.7/Sonya-Chat-Android-1.3.9.apk",
-    "sha256": "c0b2dba1eb28192832a023001194811697b3165fee7d9b8186cf106294005850",
-    "notes": "Файлы и фото с ПК открываются и показываются, даже если Tailscale не работает. Уведомления о сообщениях. Переименование компьютеров."
+    "versionCode": 12,
+    "versionName": "1.3.10",
+    "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.7/Sonya-Chat-Android-1.3.10.apk",
+    "sha256": "21dcdf8038470f94ea9fc05e5bd03db370af405634876d50bb40c2679f480627",
+    "notes": "Файлы с ПК открываются по нажатию (.apks — через SAI). Превью фото. Уведомления. Переименование компьютеров."
   },
   "windows": {
     "versionCode": 12,
