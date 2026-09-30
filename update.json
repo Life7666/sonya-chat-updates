@@ -10,7 +10,7 @@
     "versionCode": 13,
     "versionName": "1.3.8",
     "url": "https://github.com/Life7666/sonya-chat-updates/releases/download/v1.3.7/Sonya-Chat-Windows-Update-1.3.8.exe",
-    "sha256": "91ae6701b91b7feaf8d8650707247989af1f7d879f860e40ec75f2e13749c4e2",
-    "notes": "Удалить своё сообщение у всех (✕ при наведении). Уведомления Windows, переименование устройств."
+    "sha256": "62face42d7e21180aee9973da7b6097c62ef600d09e971a0413b7ce177c3a729",
+    "notes": "Удалить своё сообщение у всех — и с телефоном, и с другим ПК (✕ → «Удалить у всех?»). Переименование двойным щелчком. Уведомления Windows."
   }
 }
